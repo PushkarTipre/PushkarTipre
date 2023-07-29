@@ -21,6 +21,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=PushkarTipre&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/PushkarTipre/PushkarTipre/blob/output/github-contribution-grid-snake.gif)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
