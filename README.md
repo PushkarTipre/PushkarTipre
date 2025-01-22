@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying in PVGCOET | B.E. AI&DS |<br>🌱 I’m currently learning flutter<br>💬 Ask me about Flutter | Java | Unity3D<br>⚡ Fun fact I am a gamer too
+🔭 I’m currently studying in PVGCOET | B.E. AI&DS |<br>🌱 I’m currently learning flutter<br>💬 Ask me about Flutter | Data Science | Machine Learning⚡ Fun fact I am a gamer too
 
 
 ## 🌐 Socials:
