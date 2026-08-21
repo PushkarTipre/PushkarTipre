@@ -1,6 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently studying in PVGCOET | B.E. AI&DS |<br>🌱 I’m currently learning flutter<br>💬 Ask me about Flutter | Data Science | Machine Learning⚡ Fun fact I am a gamer too
-
+👨‍💻 Software Engineer | Flutter | Django REST Framework
+🤖 AI/ML | Computer Vision | Data Science
+🔭 Building mobile applications & AI-powered solutions
+💬 Ask me about Flutter | DRF | AI/ML | Computer Vision
+🎮 Fun fact: I'm a gamer too
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pushkar_tipre) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PushkarTipre  ) 
