@@ -35,7 +35,10 @@
 # 📊 GitHub Stats:
 
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=PushkarTipre&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=PushkarTipre&theme=tokyonight&hide_border=false)
+
+![Top Languages](https://stats.fiverse.my/api/languages?username=PushkarTipre)
+
+![GitHub Commits](https://stats.fiverse.my/api/commits?username=PushkarTipre)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PushkarTipre&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
