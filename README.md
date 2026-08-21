@@ -36,12 +36,6 @@
 
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=PushkarTipre&theme=dark)
 
-![Top Languages](https://stats.fiverse.my/api/languages?username=PushkarTipre)
-
-![GitHub Commits](https://stats.fiverse.my/api/commits?username=PushkarTipre)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PushkarTipre&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=PushkarTipre&icon=2&color=0)](https://visitcount.itsvg.in)
